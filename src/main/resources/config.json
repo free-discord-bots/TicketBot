@@ -1,0 +1,13 @@
+{
+	"ownerId": -1,
+	"token": "",
+	"debug": false,
+	"sentryDSN": "",
+	"mysqlConfig": {
+		"host": "",
+		"port": 3306,
+		"username": "",
+		"password": "",
+		"schema": ""
+	}
+}
